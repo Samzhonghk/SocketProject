@@ -1,0 +1,1 @@
+c:\Users\Samzhong\documents\visual studio 2013\Projects\24\SocketProject\bin\Debug\SocketProject.exe.config
